@@ -1,0 +1,4208 @@
+# depslib dependency file v1.0
+1635779339 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	"Usuarios.h"
+	"Facturas.h"
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+	"Clientes.h"
+
+1635772950 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\clientes.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Clientes.h"
+
+1635772948 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\clientes.h
+
+1635771512 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\servicios.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Servicios.h"
+
+1635771492 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\servicios.h
+
+1635791056 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\servicios_planes.h
+
+1635800712 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\servicios_planes.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<vector>
+	<limits>
+	"Servicios_Planes.h"
+
+1635800835 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\articulos.cpp
+	<iostream>
+	<string>
+	"Articulos.h"
+	"Stock.h"
+	<cstring>
+
+1635510751 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\articulos.h
+	<cstring>
+
+1635801039 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\facturas.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	"Facturas.h"
+	"Usuarios.h"
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+	"Clientes.h"
+
+1635510881 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\facturas.h
+	<iostream>
+	<cstring>
+	<string>
+
+1635460985 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\usuarios.cpp
+	<iostream>
+	<string>
+	"Usuarios.h"
+
+1635460711 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\usuarios.h
+	<iostream>
+	<string>
+	<cstring>
+
+1635800836 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\items_facturas.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cctype>
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios.h"
+	"Servicios_Planes.h"
+
+1634992014 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\items_facturas.h
+
+1634938051 c:\users\luketruke\desktop\sistema de gestion\gym_solution\include\stock.h
+
+1635458045 source:c:\users\luketruke\desktop\sistema de gestion\gym_solution\src\stock.cpp
+	<iostream>
+	<string>
+	"Stock.h"
+	"Articulos.h"
+	"Facturas.h"
+
+1634935212 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	"Usuarios.h"
+	"Facturas.h"
+	"Items_Facturas.h"
+	"Servicios.h"
+	"Articulos.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+
+1634958948 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\usuarios.h
+	<iostream>
+	<string>
+	<cstring>
+
+1634959477 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\facturas.h
+	<iostream>
+	<cstring>
+	<string>
+
+1634938045 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\items_facturas.h
+
+1634642995 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\servicios.h
+
+1634956834 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\articulos.h
+	<cstring>
+
+1634938065 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\servicios_planes.h
+
+1634938051 c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\include\stock.h
+
+1634956834 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\articulos.cpp
+	<iostream>
+	<string>
+	"Articulos.h"
+	"Stock.h"
+	<cstring>
+
+1634959477 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\facturas.cpp
+	<iostream>
+	<ctype.h>
+	<string>
+	<cstring>
+	"Facturas.h"
+	"Usuarios.h"
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+
+1634937718 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\items_facturas.cpp
+	<iostream>
+	<string>
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios.h"
+	"Servicios_Planes.h"
+
+1634642995 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\servicios.cpp
+	<iostream>
+	<string>
+	"Servicios.h"
+
+1634895944 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\servicios_planes.cpp
+	<iostream>
+	<string>
+	"Servicios.h"
+	"Servicios_Planes.h"
+
+1634937613 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\stock.cpp
+	<iostream>
+	<string>
+	"Stock.h"
+	"Articulos.h"
+	"Facturas.h"
+
+1634958932 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion (1)\sistema de gestion\gym_solution\src\usuarios.cpp
+	<iostream>
+	<string>
+	"Usuarios.h"
+
+1634935212 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	"Usuarios.h"
+	"Facturas.h"
+	"Items_Facturas.h"
+	"Servicios.h"
+	"Articulos.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+
+1634995252 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\usuarios.h
+	<iostream>
+	<string>
+	<cstring>
+
+1634991313 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\facturas.h
+	<iostream>
+	<cstring>
+	<string>
+
+1634992014 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\items_facturas.h
+
+1634994017 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\servicios.h
+
+1634956834 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\articulos.h
+	<cstring>
+
+1634992028 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\servicios_planes.h
+
+1634938051 c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\include\stock.h
+
+1634956834 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\articulos.cpp
+	<iostream>
+	<string>
+	"Articulos.h"
+	"Stock.h"
+	<cstring>
+
+1634993602 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\facturas.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+	"Facturas.h"
+	"Usuarios.h"
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+
+1634993271 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\items_facturas.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cctype>
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios.h"
+	"Servicios_Planes.h"
+
+1634994450 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\servicios.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Servicios.h"
+
+1634992042 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\servicios_planes.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Servicios.h"
+	"Servicios_Planes.h"
+
+1634937613 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\stock.cpp
+	<iostream>
+	<string>
+	"Stock.h"
+	"Articulos.h"
+	"Facturas.h"
+
+1634994925 source:c:\users\luketruke\desktop\sistema de gestion2\sistema de gestion\gym_solution\src\usuarios.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<cctype>
+	"Usuarios.h"
+
+1637178297 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<conio.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Database.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1636068375 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios.h
+	<iostream>
+	<string>
+	<cstring>
+
+1636076591 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas.h
+
+1636146417 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas.h
+
+1636121381 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos.h
+
+1636138628 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\servicios_planes.h
+
+1634938051 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\stock.h
+
+1636136709 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\clientes.h
+
+1636070026 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Articulos.h"
+	"Stock.h"
+
+1636116948 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\clientes.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Clientes.h"
+
+1636073860 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"Facturas.h"
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+	"Clientes.h"
+	"FuncionesExtras.h"
+	"Fecha.h"
+	"Usuarios_Database.h"
+	"Usuarios_Presentacion.h"
+
+1635771492 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\servicios.h
+
+1636143614 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<cctype>
+	"Items_Facturas.h"
+	"Servicios_Planes.h"
+	"../include/Articulos/Articulos_Database.h"
+
+1635771512 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\servicios.cpp
+	<iostream>
+	<cstring>
+	<string>
+	"Servicios.h"
+
+1636124735 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\stock.cpp
+	<iostream>
+	<string>
+	"Stock.h"
+	"Articulos.h"
+	"Articulos_Database.h"
+
+1636069479 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"Usuarios.h"
+
+1636138676 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\servicios_planes.cpp
+	<iostream>
+	<stdlib.h>
+	<cstring>
+	<string>
+	"Servicios_Planes.h"
+
+1623452433 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1635892496 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\funciones.h
+	<rlutil.h>
+
+1635892496 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\funciones.h
+	<rlutil.h>
+
+1638188263 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	<conio.h>
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Archivo.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+
+1637275897 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\funcionesextras.h
+
+1635895913 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1635972409 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\fecha.h
+
+1635972869 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"Fecha.h"
+
+1636072931 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"Usuarios_Negocio.h"
+	"Usuarios_Database.h"
+	"Usuarios_Presentacion.h"
+
+1636073796 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios_negocio.h
+
+1636073489 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios_database.h
+	"Usuarios_Negocio.h"
+
+1636073896 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios_presentacion.h
+
+1636073979 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"Usuarios_Presentacion.h"
+	"Usuarios_Negocio.h"
+	"Usuarios_Database.h"
+
+1636073884 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"Usuarios_Presentacion.h"
+	"Usuarios_Negocio.h"
+	"FuncionesExtras.h"
+
+1637283382 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Database.h"
+
+1637283329 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1638188320 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_database.h
+
+1636990271 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_presentacion.h
+
+1638188469 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Archivo.h"
+	"../../include/Usuarios/Usuario.h"
+
+1638187572 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1636115832 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas_presentacion.h
+
+1636084934 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas_database.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"Facturas_Negocio.h"
+	"Facturas_Database.h"
+
+1636115193 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas_negocio.h
+
+1636084791 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas_database.h
+	"Facturas_Negocio.h"
+
+1636089616 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"Facturas_Negocio.h"
+	"Facturas_Database.h"
+	"Items_Facturas.h"
+	"Articulos.h"
+	"Servicios_Planes.h"
+	"Stock.h"
+	"Clientes.h"
+	"FuncionesExtras.h"
+	"Fecha.h"
+	"../include/Usuarios/Usuarios_Database.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+
+1636115793 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"Facturas_Presentacion.h"
+	"Facturas_Negocio.h"
+	"Facturas_Database.h"
+	"Items_Facturas.h"
+	"Clientes.h"
+	"Fecha.h"
+	"Stock.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+
+1636958186 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas\facturas_presentacion.h
+
+1636119909 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\menus.cpp
+	<iostream>
+	"Menus.h"
+
+1637259545 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\menus.h
+
+1638188209 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	<iomanip>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1637283020 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+
+1638187778 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas\facturas_database.h
+
+1638188449 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Archivo.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Fecha/Fecha.h"
+
+1637282999 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas\facturas_database.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Database.h"
+
+1636122322 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"Articulos_Negocio.h"
+	"Articulos_Database.h"
+	"Articulos_Presentacion.h"
+
+1636124237 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos_negocio.h
+
+1636124729 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos_database.h
+	"Articulos_Negocio.h"
+	<cstring>
+
+1636124814 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos_presentacion.h
+
+1636124783 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"Articulos_Presentacion.h"
+	"Articulos_Negocio.h"
+
+1636124818 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"Articulos_Negocio.h"
+	"Articulos_Presentacion.h"
+	"Articulos_Database.h"
+	"Stock.h"
+
+1636136994 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos\articulos_database.h
+	"Articulos_Negocio.h"
+	<cstring>
+
+1637283069 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1636125148 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos\articulos_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Database.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1636436357 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos\articulos_presentacion.h
+
+1638186102 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Articulos/Articulo.h"
+
+1638186166 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636136889 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\clientes\clientes_database.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Database.h"
+
+1637283134 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1636136997 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\clientes\clientes_database.h
+	"Clientes_Negocio.h"
+	<cstring>
+
+1638187671 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1637277673 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\clientes\clientes_presentacion.h
+
+1638187646 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636150605 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas_presentacion.h
+
+1636150586 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"Items_Facturas_Negocio.h"
+	"Items_Facturas_Database.h"
+
+1636150465 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas_negocio.h
+	<cstring>
+
+1636148136 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas_database.h
+	"Items_Facturas_Negocio.h"
+	<cstring>
+
+1638188196 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_database.h
+	<cstring>
+
+1637283211 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1636605434 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_presentacion.h
+
+1637283246 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+
+1638186227 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1638188274 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Archivo.h"
+
+1635972409 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\fecha\fecha.h
+
+1636218598 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1637265951 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\planes\planes_presentacion.h
+
+1636221309 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\planes\planes_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1637283263 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1638187988 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\planes\planes_database.h
+	<cstring>
+
+1638188126 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1638186373 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1634938051 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\stock\stock.h
+
+1636222885 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\stock\stock.cpp
+	<iostream>
+	<string>
+	"../../include/Stock/Stock.h"
+	"../../include/Articulos/Articulos_Database.h"
+
+1636605997 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\stock\stock_presentacion.h
+
+1636224445 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1637283321 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\stock\stock_negocio.h
+
+1637283313 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\stock\stock_database.h
+	<cstring>
+
+1636990851 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1638186384 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<iomanip>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"FuncionesExtras.h"
+
+1636418625 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1638187624 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1638187620 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\clientes\cliente.h
+	"Persona.h"
+
+1636695967 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\factura.h
+	<vector>
+	<cstring>
+
+1636695998 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\factura.cpp
+	<iostream>
+	<vector>
+	"Factura.h"
+
+1636755987 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1636993257 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636760641 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\item_factura.h
+	<vector>
+	<cstring>
+
+1636759793 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\item_factura.cpp
+	<iostream>
+	"Item_Factura.h"
+
+1638185966 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+	"Item.h"
+
+1638185801 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1636848520 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulo.h
+	<cstring>
+
+1636847952 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulo.cpp
+	<iostream>
+	"Articulo.h"
+
+1638185846 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos\articulo.h
+	<cstring>
+	"Item.h"
+
+1638185834 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1638186344 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\planes\plan.h
+	<cstring>
+	"Item.h"
+
+1638185525 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1636876519 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuario.h
+	<cstring>
+
+1636874076 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuario.cpp
+	<iostream>
+	"Usuario.h"
+
+1638187486 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios\usuario.h
+	<cstring>
+	"Persona.h"
+
+1638187464 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1637283076 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\articulos\articulos_archivo.h
+	<cstring>
+
+1637283101 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Archivo.h"
+
+1637283166 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1637283140 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\clientes\clientes_archivo.h
+	<cstring>
+
+1636667486 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Database.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1623452433 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636990271 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_presentacion.h
+
+1636958186 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\facturas\facturas_presentacion.h
+
+1636436357 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\articulos\articulos_presentacion.h
+
+1636468977 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\clientes\clientes_presentacion.h
+
+1636605434 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_presentacion.h
+
+1636760590 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_database.h
+	"Items_Facturas_Negocio.h"
+	<cstring>
+
+1636761544 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1636760641 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+
+1636481149 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\planes\planes_presentacion.h
+
+1635972409 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\fecha\fecha.h
+
+1636667268 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\menus.h
+
+1636423636 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\funcionesextras.h
+
+1636870651 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1636848520 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\articulos\articulo.h
+	<cstring>
+
+1636990825 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1636870661 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1636990707 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\articulos\articulos_archivo.h
+	"Articulos_Negocio.h"
+	<cstring>
+
+1636990768 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Articulos/Articulo.h"
+
+1636224614 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\stock\stock_database.h
+	<cstring>
+	"Stock_Negocio.h"
+
+1636848510 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\stock\stock_negocio.h
+
+1636990524 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636605997 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\stock\stock_presentacion.h
+
+1636685320 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1636685313 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\clientes\cliente.h
+	<cstring>
+
+1636991004 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1636737162 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1636991000 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\clientes\clientes_archivo.h
+	"Clientes_Negocio.h"
+	<cstring>
+
+1636991197 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1636990068 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Database.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636418625 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1636993257 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636755987 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1636695932 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\facturas\facturas_database.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+
+1636694931 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+
+1636695945 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\facturas\facturas_database.h
+	"Facturas_Negocio.h"
+
+1636958171 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1636956834 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1636876519 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\usuarios\usuario.h
+	<cstring>
+
+1636218598 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1636991061 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Database.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+
+1636873090 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\planes\planes_database.h
+	<cstring>
+	"Planes_Negocio.h"
+
+1636873512 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1636873099 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\planes\plan.h
+	<cstring>
+
+1636763529 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1636151030 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+
+1636990843 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Database.h"
+
+1636957666 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1636872435 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1636221309 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\planes\planes_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1636873495 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1636873628 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636224445 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1636990851 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1636849055 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1636877169 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1636075143 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Database.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+
+1636873827 c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_database.h
+	"../Usuarios/Usuarios_Negocio.h"
+
+1636956852 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Database.h"
+	"../../include/Usuarios/Usuario.h"
+
+1636991753 source:c:\users\54114\desktop\practica labii 2021\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1636870651 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1636848520 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\articulos\articulo.h
+	<cstring>
+
+1636990825 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1637253212 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1636990707 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\articulos\articulos_archivo.h
+	"Articulos_Negocio.h"
+	<cstring>
+
+1636436357 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\articulos\articulos_presentacion.h
+
+1637253321 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Articulos/Articulo.h"
+
+1636224614 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\stock\stock_database.h
+	<cstring>
+	"Stock_Negocio.h"
+
+1636848510 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\stock\stock_negocio.h
+
+1637257771 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636605997 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\stock\stock_presentacion.h
+
+1637178297 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\funcionesextras.h
+
+1636685320 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1636685313 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\clientes\cliente.h
+	<cstring>
+
+1636991004 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1636737162 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1636991000 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\clientes\clientes_archivo.h
+	"Clientes_Negocio.h"
+	<cstring>
+
+1636991197 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1636468977 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\clientes\clientes_presentacion.h
+
+1637256083 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636418625 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1623452433 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636993257 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636755987 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1636695932 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\facturas\facturas_database.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+
+1636694931 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+
+1636695945 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\facturas\facturas_database.h
+	"Facturas_Negocio.h"
+
+1637010140 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\facturas\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Database.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Fecha/Fecha.h"
+
+1636873827 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\usuarios\usuarios_database.h
+	"../Usuarios/Usuarios_Negocio.h"
+
+1636956834 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1636876519 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\usuarios\usuario.h
+	<cstring>
+
+1635972409 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\fecha\fecha.h
+
+1637258959 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1636958186 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\facturas\facturas_presentacion.h
+
+1636990271 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\usuarios\usuarios_presentacion.h
+
+1636605434 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\items_facturas\items_facturas_presentacion.h
+
+1636761544 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1636760641 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+
+1636760590 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\items_facturas\items_facturas_database.h
+	"Items_Facturas_Negocio.h"
+	<cstring>
+
+1636218598 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1637178509 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	<conio.h>
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Database.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+
+1636873090 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\planes\planes_database.h
+	<cstring>
+	"Planes_Negocio.h"
+
+1636873512 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1636873099 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\planes\plan.h
+	<cstring>
+
+1636763529 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1636151030 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\items_facturas\items_facturas_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+
+1636990843 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Database.h"
+
+1637259007 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1636481149 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\planes\planes_presentacion.h
+
+1636872435 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1636221309 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\planes\planes_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1636873495 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1637208502 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636224445 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1636990851 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1637258407 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"FuncionesExtras.h"
+
+1636877169 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1636075143 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\usuarios\usuarios_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Database.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+
+1636956852 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Database.h"
+	"../../include/Usuarios/Usuario.h"
+
+1637211061 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1637178297 source:c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<conio.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Database.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1636667268 c:\users\54114\desktop\practica labii 2021\acoplando\sistema_de_gestion\include\menus.h
+
+1637178297 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<conio.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Database.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1623452433 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636990271 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\usuarios\usuarios_presentacion.h
+
+1636958186 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\facturas\facturas_presentacion.h
+
+1636436357 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\articulos\articulos_presentacion.h
+
+1636468977 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\clientes\clientes_presentacion.h
+
+1636605434 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\items_facturas\items_facturas_presentacion.h
+
+1636760590 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\items_facturas\items_facturas_database.h
+	"Items_Facturas_Negocio.h"
+	<cstring>
+
+1636761544 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1636760641 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+
+1637265951 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\planes\planes_presentacion.h
+
+1635972409 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\fecha\fecha.h
+
+1637259545 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\menus.h
+
+1637178297 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\funcionesextras.h
+
+1636870651 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1636848520 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\articulos\articulo.h
+	<cstring>
+
+1636990825 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1637253212 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1636990707 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\articulos\articulos_archivo.h
+	"Articulos_Negocio.h"
+	<cstring>
+
+1637253321 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Articulos/Articulo.h"
+
+1636224614 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\stock\stock_database.h
+	<cstring>
+	"Stock_Negocio.h"
+
+1636848510 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\stock\stock_negocio.h
+
+1637261111 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636605997 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\stock\stock_presentacion.h
+
+1636685320 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1636685313 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\clientes\cliente.h
+	<cstring>
+
+1636991004 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1636737162 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1636991000 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\clientes\clientes_archivo.h
+	"Clientes_Negocio.h"
+	<cstring>
+
+1636991197 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1637262756 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636418625 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1636993257 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636755987 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1636695932 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\facturas\facturas_database.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+
+1636694931 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+
+1636695945 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\facturas\facturas_database.h
+	"Facturas_Negocio.h"
+
+1637010140 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\facturas\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Database.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Fecha/Fecha.h"
+
+1636873827 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\usuarios\usuarios_database.h
+	"../Usuarios/Usuarios_Negocio.h"
+
+1636956834 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1636876519 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\usuarios\usuario.h
+	<cstring>
+
+1637264394 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	<iomanip>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1636218598 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1637261741 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	<conio.h>
+	"../include/Facturas/Facturas_Database.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Database.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+
+1636873090 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\planes\planes_database.h
+	<cstring>
+	"Planes_Negocio.h"
+
+1636873512 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1636873099 c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\include\planes\plan.h
+	<cstring>
+
+1636763529 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1636151030 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\items_facturas\items_facturas_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+
+1636990843 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Database.h"
+
+1637265635 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1636872435 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1636221309 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\planes\planes_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1636873495 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1637208502 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Database.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636224445 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1636990851 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1637265704 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<iomanip>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"FuncionesExtras.h"
+
+1636877169 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1636075143 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\usuarios\usuarios_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Database.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+
+1636956852 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Database.h"
+	"../../include/Usuarios/Usuario.h"
+
+1637262478 source:c:\users\luketruke\desktop\proyectofinal\sistema_de_gestion\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1638186085 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\item.h
+	<cstring>
+
+1638185543 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\item.cpp
+	<iostream>
+	"Item.h"
+
+1638187510 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\persona.h
+	<cstring>
+
+1638187403 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1638187754 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\facturas\facturas_archivo.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Archivo.h"
+
+1638187778 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\facturas\facturas_archivo.h
+
+1638188022 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\planes\planes_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1638187988 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\planes\planes_archivo.h
+	<cstring>
+
+1638188168 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\items_facturas\items_facturas_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+
+1638188196 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\items_facturas\items_facturas_archivo.h
+	<cstring>
+
+1638188344 source:c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\src\usuarios\usuarios_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Archivo.h"
+
+1638188320 c:\users\luketruke\desktop\sistema de gestion\sistema_de_gestion\include\usuarios\usuarios_archivo.h
+
+1638927299 source:c:\users\54114\downloads\sistema_de_gestion\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<conio.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Archivo.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1623452433 c:\users\54114\downloads\sistema_de_gestion\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636990271 c:\users\54114\downloads\sistema_de_gestion\include\usuarios\usuarios_presentacion.h
+
+1636958186 c:\users\54114\downloads\sistema_de_gestion\include\facturas\facturas_presentacion.h
+
+1636436357 c:\users\54114\downloads\sistema_de_gestion\include\articulos\articulos_presentacion.h
+
+1637277673 c:\users\54114\downloads\sistema_de_gestion\include\clientes\clientes_presentacion.h
+
+1636605434 c:\users\54114\downloads\sistema_de_gestion\include\items_facturas\items_facturas_presentacion.h
+
+1637265951 c:\users\54114\downloads\sistema_de_gestion\include\planes\planes_presentacion.h
+
+1635972409 c:\users\54114\downloads\sistema_de_gestion\include\fecha\fecha.h
+
+1637259545 c:\users\54114\downloads\sistema_de_gestion\include\menus.h
+
+1638928554 c:\users\54114\downloads\sistema_de_gestion\include\funcionesextras.h
+
+1638185834 source:c:\users\54114\downloads\sistema_de_gestion\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1638185846 c:\users\54114\downloads\sistema_de_gestion\include\articulos\articulo.h
+	<cstring>
+	"Item.h"
+
+1638186085 c:\users\54114\downloads\sistema_de_gestion\include\item.h
+	<cstring>
+
+1637283101 source:c:\users\54114\downloads\sistema_de_gestion\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Archivo.h"
+
+1637283076 c:\users\54114\downloads\sistema_de_gestion\include\articulos\articulos_archivo.h
+	<cstring>
+
+1638186102 source:c:\users\54114\downloads\sistema_de_gestion\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Articulos/Articulo.h"
+
+1637283069 c:\users\54114\downloads\sistema_de_gestion\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1637283313 c:\users\54114\downloads\sistema_de_gestion\include\stock\stock_database.h
+	<cstring>
+
+1637283321 c:\users\54114\downloads\sistema_de_gestion\include\stock\stock_negocio.h
+
+1638186166 source:c:\users\54114\downloads\sistema_de_gestion\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636605997 c:\users\54114\downloads\sistema_de_gestion\include\stock\stock_presentacion.h
+
+1638187624 source:c:\users\54114\downloads\sistema_de_gestion\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1638187620 c:\users\54114\downloads\sistema_de_gestion\include\clientes\cliente.h
+	"Persona.h"
+
+1638187510 c:\users\54114\downloads\sistema_de_gestion\include\persona.h
+	<cstring>
+
+1637283166 source:c:\users\54114\downloads\sistema_de_gestion\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1637283134 c:\users\54114\downloads\sistema_de_gestion\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1637283140 c:\users\54114\downloads\sistema_de_gestion\include\clientes\clientes_archivo.h
+	<cstring>
+
+1638187671 source:c:\users\54114\downloads\sistema_de_gestion\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1638187646 source:c:\users\54114\downloads\sistema_de_gestion\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636418625 c:\users\54114\downloads\sistema_de_gestion\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1636993257 source:c:\users\54114\downloads\sistema_de_gestion\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636755987 c:\users\54114\downloads\sistema_de_gestion\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1638187754 source:c:\users\54114\downloads\sistema_de_gestion\src\facturas\facturas_archivo.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Archivo.h"
+
+1638187778 c:\users\54114\downloads\sistema_de_gestion\include\facturas\facturas_archivo.h
+
+1638188449 source:c:\users\54114\downloads\sistema_de_gestion\src\facturas\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Archivo.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Fecha/Fecha.h"
+
+1637283020 c:\users\54114\downloads\sistema_de_gestion\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+
+1638188320 c:\users\54114\downloads\sistema_de_gestion\include\usuarios\usuarios_archivo.h
+
+1638927309 source:c:\users\54114\downloads\sistema_de_gestion\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	<iomanip>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1637283329 c:\users\54114\downloads\sistema_de_gestion\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1638187486 c:\users\54114\downloads\sistema_de_gestion\include\usuarios\usuario.h
+	<cstring>
+	"Persona.h"
+
+1637283211 c:\users\54114\downloads\sistema_de_gestion\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1638185966 c:\users\54114\downloads\sistema_de_gestion\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+	"Item.h"
+
+1636218598 source:c:\users\54114\downloads\sistema_de_gestion\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1638928723 source:c:\users\54114\downloads\sistema_de_gestion\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	<conio.h>
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Archivo.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+
+1638188196 c:\users\54114\downloads\sistema_de_gestion\include\items_facturas\items_facturas_archivo.h
+	<cstring>
+
+1638187988 c:\users\54114\downloads\sistema_de_gestion\include\planes\planes_archivo.h
+	<cstring>
+
+1638185543 source:c:\users\54114\downloads\sistema_de_gestion\src\item.cpp
+	<iostream>
+	"Item.h"
+
+1638185801 source:c:\users\54114\downloads\sistema_de_gestion\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1638188168 source:c:\users\54114\downloads\sistema_de_gestion\src\items_facturas\items_facturas_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+
+1638188274 source:c:\users\54114\downloads\sistema_de_gestion\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Archivo.h"
+
+1638186227 source:c:\users\54114\downloads\sistema_de_gestion\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1637283263 c:\users\54114\downloads\sistema_de_gestion\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1638186344 c:\users\54114\downloads\sistema_de_gestion\include\planes\plan.h
+	<cstring>
+	"Item.h"
+
+1638187403 source:c:\users\54114\downloads\sistema_de_gestion\src\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1638185525 source:c:\users\54114\downloads\sistema_de_gestion\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1638188022 source:c:\users\54114\downloads\sistema_de_gestion\src\planes\planes_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1638188126 source:c:\users\54114\downloads\sistema_de_gestion\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1638928554 source:c:\users\54114\downloads\sistema_de_gestion\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636224445 source:c:\users\54114\downloads\sistema_de_gestion\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1636990851 source:c:\users\54114\downloads\sistema_de_gestion\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1638186384 source:c:\users\54114\downloads\sistema_de_gestion\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<iomanip>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"FuncionesExtras.h"
+
+1638187464 source:c:\users\54114\downloads\sistema_de_gestion\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1638188344 source:c:\users\54114\downloads\sistema_de_gestion\src\usuarios\usuarios_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Archivo.h"
+
+1638188469 source:c:\users\54114\downloads\sistema_de_gestion\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Archivo.h"
+	"../../include/Usuarios/Usuario.h"
+
+1638187572 source:c:\users\54114\downloads\sistema_de_gestion\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1638927299 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<conio.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Archivo.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1623452433 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636990271 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\usuarios\usuarios_presentacion.h
+
+1636958186 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\facturas\facturas_presentacion.h
+
+1636436357 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\articulos\articulos_presentacion.h
+
+1637277673 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\clientes\clientes_presentacion.h
+
+1636605434 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\items_facturas\items_facturas_presentacion.h
+
+1638188196 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\items_facturas\items_facturas_archivo.h
+	<cstring>
+
+1637265951 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\planes\planes_presentacion.h
+
+1639058564 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\fecha\fecha.h
+
+1637259545 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\menus.h
+
+1638928554 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\funcionesextras.h
+
+1638185834 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1638185846 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\articulos\articulo.h
+	<cstring>
+	"Item.h"
+
+1638186085 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\item.h
+	<cstring>
+
+1637283101 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Archivo.h"
+
+1637283076 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\articulos\articulos_archivo.h
+	<cstring>
+
+1638186102 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Articulos/Articulo.h"
+
+1637283069 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1637283313 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\stock\stock_database.h
+	<cstring>
+
+1637283321 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\stock\stock_negocio.h
+
+1638186166 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636605997 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\stock\stock_presentacion.h
+
+1638187624 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1638187620 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\clientes\cliente.h
+	"Persona.h"
+
+1638187510 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\persona.h
+	<cstring>
+
+1637283166 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1637283134 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1637283140 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\clientes\clientes_archivo.h
+	<cstring>
+
+1638187671 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1638187646 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636418625 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1636993257 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636755987 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1639058727 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\facturas\facturas_archivo.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Archivo.h"
+	"Fecha/Fecha.h"
+
+1639058781 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\facturas\facturas_archivo.h
+	"Fecha/Fecha.h"
+
+1639059011 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\facturas\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Archivo.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Fecha/Fecha.h"
+
+1639058916 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+	"Fecha/Fecha.h"
+
+1638188320 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\usuarios\usuarios_archivo.h
+
+1639058873 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	<iomanip>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1637283329 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1638187486 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\usuarios\usuario.h
+	<cstring>
+	"Persona.h"
+
+1637283211 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1638185966 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+	"Item.h"
+
+1636218598 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1639058805 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	<conio.h>
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Archivo.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+
+1638187988 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\planes\planes_archivo.h
+	<cstring>
+
+1638185543 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\item.cpp
+	<iostream>
+	"Item.h"
+
+1638185801 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1638188168 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\items_facturas\items_facturas_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+
+1638188274 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Archivo.h"
+
+1638186227 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Database.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1637283263 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1638186344 c:\users\luketruke\desktop\sistema_de_gestionxddd\include\planes\plan.h
+	<cstring>
+	"Item.h"
+
+1638187403 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1638185525 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1638188022 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\planes\planes_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1638188126 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1638928554 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636224445 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1636990851 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1638186384 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<iomanip>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"FuncionesExtras.h"
+
+1638187464 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1638188344 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\usuarios\usuarios_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Archivo.h"
+
+1638188469 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Archivo.h"
+	"../../include/Usuarios/Usuario.h"
+
+1638187572 source:c:\users\luketruke\desktop\sistema_de_gestionxddd\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1639076880 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\main.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<conio.h>
+	"include/Usuarios/Usuarios_Presentacion.h"
+	"include/Facturas/Facturas_Presentacion.h"
+	"include/Articulos/Articulos_Presentacion.h"
+	"include/Clientes/Clientes_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"include/Items_Facturas/Items_Facturas_Archivo.h"
+	"include/Planes/Planes_Presentacion.h"
+	"include/Fecha/Fecha.h"
+	"Menus.h"
+	"FuncionesExtras.h"
+
+1623452433 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1636990271 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\usuarios\usuarios_presentacion.h
+
+1636958186 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\facturas\facturas_presentacion.h
+
+1636436357 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\articulos\articulos_presentacion.h
+
+1637277673 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\clientes\clientes_presentacion.h
+
+1636605434 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\items_facturas\items_facturas_presentacion.h
+
+1638188196 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\items_facturas\items_facturas_archivo.h
+	<cstring>
+
+1637265951 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\planes\planes_presentacion.h
+
+1639058564 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\fecha\fecha.h
+
+1637259545 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\menus.h
+
+1639077345 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\funcionesextras.h
+
+1638185834 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\articulos\articulo.cpp
+	<iostream>
+	"../include/Articulos/Articulo.h"
+
+1638185846 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\articulos\articulo.h
+	<cstring>
+	"Item.h"
+
+1638186085 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\item.h
+	<cstring>
+
+1637283101 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\articulos\articulos_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../include/Articulos/Articulos_Archivo.h"
+
+1637283076 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\articulos\articulos_archivo.h
+	<cstring>
+
+1638186102 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\articulos\articulos_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Articulos/Articulo.h"
+
+1637283069 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\articulos\articulos_negocio.h
+	<vector>
+	"../include/Articulos/Articulo.h"
+
+1637283313 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\stock\stock_database.h
+	<cstring>
+
+1637283321 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\stock\stock_negocio.h
+
+1638187624 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\clientes\cliente.cpp
+	<iostream>
+	"../include/Clientes/Cliente.h"
+
+1638187620 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\clientes\cliente.h
+	"Persona.h"
+
+1638187510 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\persona.h
+	<cstring>
+
+1637283166 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\clientes\clientes_archivo.cpp
+	<iostream>
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+
+1637283134 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\clientes\clientes_negocio.h
+	<vector>
+	"Clientes/Cliente.h"
+
+1637283140 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\clientes\clientes_archivo.h
+	<cstring>
+
+1638187671 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\clientes\clientes_negocio.cpp
+	<iostream>
+	<vector>
+	<string>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+
+1639081652 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\clientes\clientes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Cliente.h"
+	"FuncionesExtras.h"
+	"Validaciones.h"
+
+1636418625 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\validaciones.h
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+
+1636993257 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\facturas\factura.cpp
+	<iostream>
+	<vector>
+	"../include/Facturas/Factura.h"
+
+1636755987 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\facturas\factura.h
+	<vector>
+	<cstring>
+
+1639058727 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\facturas\facturas_archivo.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	"../include/Facturas/Facturas_Archivo.h"
+	"Fecha/Fecha.h"
+
+1639058781 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\facturas\facturas_archivo.h
+	"Fecha/Fecha.h"
+
+1639059011 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\facturas\facturas_negocio.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Archivo.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Fecha/Fecha.h"
+
+1639058916 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\facturas\facturas_negocio.h
+	<vector>
+	"Factura.h"
+	"Fecha/Fecha.h"
+
+1638188320 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\usuarios\usuarios_archivo.h
+
+1639078846 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\facturas\facturas_presentacion.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<vector>
+	<iomanip>
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Factura.h"
+	"../include/Usuarios/Usuarios_Presentacion.h"
+	"../include/Usuarios/Usuarios_Negocio.h"
+	"../include/Clientes/Clientes_Presentacion.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Cliente.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Fecha/Fecha.h"
+	"FuncionesExtras.h"
+
+1637283329 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\usuarios\usuarios_negocio.h
+	<vector>
+	"Usuario.h"
+
+1638187486 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\usuarios\usuario.h
+	<cstring>
+	"Persona.h"
+
+1637283211 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\items_facturas\items_facturas_negocio.h
+	<cstring>
+	"Item_Factura.h"
+
+1638185966 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\items_facturas\item_factura.h
+	<vector>
+	<cstring>
+	"Item.h"
+
+1636218598 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\fecha\fecha.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<ctime>
+	<fstream>
+	<sstream>
+	<algorithm>
+	"../../include/Fecha/Fecha.h"
+
+1638185543 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\item.cpp
+	<iostream>
+	"Item.h"
+
+1638185801 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\items_facturas\item_factura.cpp
+	<iostream>
+	"Items_Facturas/Item_Factura.h"
+
+1638188168 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\items_facturas\items_facturas_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+
+1638188274 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\items_facturas\items_facturas_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Planes/Planes_Archivo.h"
+
+1638187988 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\planes\planes_archivo.h
+	<cstring>
+
+1639080506 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\items_facturas\items_facturas_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Items_Facturas/Item_Factura.h"
+	"../include/Facturas/Facturas_Presentacion.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Negocio.h"
+
+1637283263 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\planes\planes_negocio.h
+	"../include/Planes/Plan.h"
+	<vector>
+
+1638186344 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\planes\plan.h
+	<cstring>
+	"Item.h"
+
+1636605997 c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\include\stock\stock_presentacion.h
+
+1638187403 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\persona.cpp
+	<iostream>
+	"Persona.h"
+
+1638185525 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\planes\plan.cpp
+	<iostream>
+	"../include/Planes/Plan.h"
+
+1638188022 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\planes\planes_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+
+1638188126 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\planes\planes_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+
+1639080857 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\planes\planes_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../include/Planes/Planes_Negocio.h"
+	"../include/Planes/Planes_Archivo.h"
+	"../include/Planes/Planes_Presentacion.h"
+	"../include/Planes/Plan.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+	"FuncionesExtras.h"
+
+1636224445 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\stock\stock_database.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+
+1636990851 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\stock\stock_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	"../include/Stock/Stock_Negocio.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Articulos/Articulos_Presentacion.h"
+
+1638186384 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\stock\stock_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<iomanip>
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"../include/Stock/Stock_Database.h"
+	"../include/Stock/Stock_Negocio.h"
+	"FuncionesExtras.h"
+
+1638187464 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\usuarios\usuario.cpp
+	<iostream>
+	"../../include/Usuarios/Usuario.h"
+
+1638188344 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\usuarios\usuarios_archivo.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Archivo.h"
+
+1638188469 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\usuarios\usuarios_negocio.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/Usuarios/Usuarios_Archivo.h"
+	"../../include/Usuarios/Usuario.h"
+
+1638187572 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\usuarios\usuarios_presentacion.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<rlutil.h>
+	<vector>
+	"../../include/Usuarios/Usuario.h"
+	"../../include/Usuarios/Usuarios_Presentacion.h"
+	"../../include/Usuarios/Usuarios_Negocio.h"
+	"../../include/FuncionesExtras.h"
+
+1639080712 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\articulos\articulos_presentacion.cpp
+	<iostream>
+	<string>
+	<ctype.h>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+	<cstring>
+	<vector>
+	<rlutil.h>
+	"../include/Articulos/Articulos_Presentacion.h"
+	"../include/Articulos/Articulos_Negocio.h"
+	"../include/Stock/Stock_Presentacion.h"
+	"FuncionesExtras.h"
+
+1639077503 source:c:\users\54114\desktop\sistema_de_gestion (1)\sistema_de_gestion\src\funcionesextras.cpp
+	<iostream>
+	<cstring>
+	<cctype>
+	<fstream>
+	<string>
+	<sstream>
+	<algorithm>
+	<rlutil.h>
+	<stdio.h>
+	<conio.h>
+	"../include/Facturas/Facturas_Archivo.h"
+	"../include/Facturas/Facturas_Negocio.h"
+	"../include/Articulos/Articulos_Archivo.h"
+	"../include/Clientes/Clientes_Negocio.h"
+	"../include/Clientes/Clientes_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Archivo.h"
+	"../include/Items_Facturas/Items_Facturas_Negocio.h"
+	"../include/Items_Facturas/Items_Facturas_Presentacion.h"
+	"../include/Planes/Planes_Archivo.h"
+	"FuncionesExtras.h"
+	<rlutil.h>
+

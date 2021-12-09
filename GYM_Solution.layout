@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="include\Planes\Planes_Presentacion.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="11" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="486" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="include\Items_Facturas\Items_Facturas_Negocio.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="150" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Validaciones.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="66" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Facturas\Facturas_Archivo.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="106" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="include\Usuarios\Usuarios_Presentacion.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="588" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Usuarios\Usuarios_Presentacion.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="586" topLine="106" />
+		</Cursor>
+	</File>
+	<File name="include\Articulos\Articulos_Negocio.h" open="0" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="153" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Clientes\Clientes_Negocio.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="119" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Facturas\Facturas_Presentacion.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7906" topLine="263" />
+		</Cursor>
+	</File>
+	<File name="src\Fecha\Fecha.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="include\Usuarios\Usuario.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="726" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Articulos\Articulos_Negocio.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3284" topLine="115" />
+		</Cursor>
+	</File>
+	<File name="include\Articulos\Articulos_Archivo.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="438" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Item.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="64" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Items_Facturas\Items_Facturas_Presentacion.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="539" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="src\Articulos\Articulo.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="142" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Persona.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\rlutil.h" open="0" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1441" topLine="34" />
+		</Cursor>
+	</File>
+	<File name="src\Stock\Stock_Negocio.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="757" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="include\Facturas\Facturas_Negocio.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="121" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Facturas\Factura.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="188" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Stock\Stock_Database.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="368" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="include\Fecha\Fecha.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="348" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Articulos\Articulos_Presentacion.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1910" topLine="63" />
+		</Cursor>
+	</File>
+	<File name="src\Clientes\Clientes_Archivo.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="339" topLine="3" />
+		</Cursor>
+	</File>
+	<File name="src\Items_Facturas\Items_Facturas_Presentacion.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1380" topLine="28" />
+		</Cursor>
+	</File>
+	<File name="src\Items_Facturas\Items_Facturas_Negocio.cpp" open="0" top="0" tabpos="16" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1749" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Stock\Stock_Database.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="109" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Clientes\Cliente.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="113" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Usuarios\Usuarios_Negocio.cpp" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3764" topLine="117" />
+		</Cursor>
+	</File>
+	<File name="include\Menus.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="408" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="src\Articulos\Articulos_Archivo.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="19" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="include\Items_Facturas\Item_Factura.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="132" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="src\Clientes\Clientes_Negocio.cpp" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1450" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="src\Usuarios\Usuario.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Articulos\Articulos_Presentacion.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="507" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="include\Facturas\Factura.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="130" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\FuncionesExtras.cpp" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1828" topLine="57" />
+		</Cursor>
+	</File>
+	<File name="include\Clientes\Clientes_Archivo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="12" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="76" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Items_Facturas\Item_Factura.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="15" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="85" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="include\Articulos\Articulo.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="138" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Planes\Plan.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="274" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Facturas\Facturas_Negocio.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1645" topLine="99" />
+		</Cursor>
+	</File>
+	<File name="include\Stock\Stock_Presentacion.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="333" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Planes\Planes_Presentacion.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3055" topLine="94" />
+		</Cursor>
+	</File>
+	<File name="include\Planes\Planes_Negocio.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="135" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Planes\Plan.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="101" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Stock\Stock_Negocio.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="10" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="50" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4485" topLine="124" />
+		</Cursor>
+	</File>
+	<File name="include\Clientes\Cliente.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="92" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\Usuarios\Usuarios_Archivo.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1140" topLine="37" />
+		</Cursor>
+	</File>
+	<File name="src\Persona.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\FuncionesExtras.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="184" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Clientes\Clientes_Presentacion.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10601" topLine="365" />
+		</Cursor>
+	</File>
+	<File name="src\Planes\Planes_Negocio.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="8" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2473" topLine="84" />
+		</Cursor>
+	</File>
+	<File name="include\Facturas\Facturas_Presentacion.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="510" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="include\Usuarios\Usuarios_Negocio.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="126" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Facturas\Facturas_Archivo.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="263" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="include\Clientes\Clientes_Presentacion.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="9" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="477" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\Stock\Stock_Presentacion.cpp" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1689" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
